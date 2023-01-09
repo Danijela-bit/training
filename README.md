@@ -1,4 +1,5 @@
-# Steps for Deploying a Static HTML Site with Docker and Nginx
+# Steps for Deploying a Static HTML Site 
+# with Docker and Nginx
 Currently in this repo there is only simple index.html file, but this repo is for simple testing and training purposes.
 
 ## Step 1 - Create a Directory for the Website
